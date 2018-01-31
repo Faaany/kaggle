@@ -1,2 +1,2 @@
 # kaggle
-Our code for kaggle data science competition.
+For collaborattion of our data science competition at kaggle. 
