@@ -1,2 +1,2 @@
 # kaggle
-For collaborattion of our data science competition at kaggle. 
+For collaboration of our data science competition at kaggle. 
